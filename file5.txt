@@ -1,0 +1,6 @@
+git show commitcode
+git status 
+vi file.txt
+git add filename
+git commit -m "comment" filename
+
